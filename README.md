@@ -48,3 +48,8 @@ Change the search bar search glass icon by modifying this-
 `let image = UIImage(named: "searchfield")`
 
 Please feel free to fork or clone.
+
+
+
+
+######MIT License, Copyright (c) 2018 Anjanava Biswas
