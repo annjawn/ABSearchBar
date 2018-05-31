@@ -1,4 +1,4 @@
-# ABSearchBar
+# ABSearchBar 
 
 
 
@@ -12,7 +12,7 @@ This is a replacement of  `UISearchController` to put a search bar in the `UINav
 
 
 #### Usage
-Make sure your `NavigationController` is embedded in a `UINavigationController` either through storyboard or programatically. Drop the `SearchBar.swift` file into your project, change the extension to your `ViewController` class. That's it!
+Make sure your `UIViewController` is embedded in a `UINavigationController` either through storyboard or programatically. Drop the `SearchBar.swift` file into your project, change the extension to your `UIViewController` class. That's it!
 
 
 #### Customizations
